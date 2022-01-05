@@ -1,0 +1,72 @@
+.signin{
+    float: right;
+}
+
+.bg{
+    width: 31.5%;
+    background-color: orange;
+}
+
+.c{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size:larger;
+}
+
+.th{
+    color: azure;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size:larger;
+}
+
+.f{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+
+.n{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+.size{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+.body{
+    background-size: cover;
+    background-image:url('./img/king.jpeg');
+    height:750px;
+    background-repeat: no-repeat;
+}
+.d1{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+
+.to{
+    text-align: center;
+    font-variant: small-caps;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.bg1{
+    background-color:azure;
+}
+
+.contbg{
+    background-color:orange;
+}
+
+.jumbotron{
+    background-color: orange;
+}
+
+.reg{
+    font-weight: 600;
+    color:aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
